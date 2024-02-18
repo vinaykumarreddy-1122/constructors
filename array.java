@@ -9,7 +9,7 @@ public class array {
         System.out.println(name[i]);
      }
 
-     int[][] twoDArray={{1,2,3},{4,5,6},{7,8,9}};
+     int[][] twoDArray={{1,2,3},{4,5,6},{7,8,9}};              //2dArray
      for(int i=0;i<twoDArray.length;i++) {
         for(int j=0;j<twoDArray[0].length;j++){
             System.out.print(twoDArray[i][j]);
