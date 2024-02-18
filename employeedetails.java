@@ -9,7 +9,7 @@ public class employeedetails {
           sss.dept = "god";
           System.out.println(sss);
 
-          employee hdp = new employee();
+          employee hdp = new employee();       // sample demo program 
           hdp.name = "Hindupur";
           hdp.empid = 515201;
           hdp.dept = "Muncipal corporation";
